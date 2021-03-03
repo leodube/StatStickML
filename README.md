@@ -10,3 +10,6 @@ jupyter notebook
 ```
 
 Run `categorize.ipynb` and then `plot.ipynb`
+
+### Built with:
+- Jupyter Nodebook
